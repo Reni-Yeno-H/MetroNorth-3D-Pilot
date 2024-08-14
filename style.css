@@ -1,0 +1,47 @@
+body {
+  background-color: white;
+  color: black;
+}
+ul {
+  color: white;
+}
+h2 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+li {
+  background-color: #f1f1f1;
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  font-size: 15px;
+  border: 1px solid #000;
+  border-radius: 50px
+}
+
+a {
+  /* color: #fff; */
+  text-decoration: none;
+}
+
+.container {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 5px;
+  margin: 15px;
+}
+p {
+  color:red;
+  font-size: 35px;
+  text-align: center;
+}
